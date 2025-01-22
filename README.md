@@ -1,5 +1,5 @@
 # csv-merger 
-Use in conjunction with the [##DataCite Bulk DOI Creator](https://github.com/VIULibrary/datacite-bulk-doi-creator), to merge the DOIs from the CSV output, with your dspace import file
+Use in conjunction with the [DataCite Bulk DOI Creator](https://github.com/VIULibrary/datacite-bulk-doi-creator), to merge the DOIs from the CSV output, with your dspace import file
 
 1. Clone this script
 2. Place your auto-prefix.py .csv outfile and your exported dspace metadata file (this will be the file you merge into, and import back into dspace) in the same directory as the csv-merger.py script.
