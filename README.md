@@ -7,6 +7,8 @@ Use in conjunction with the the [csv-merger-1](https://github.com/VIULibrary/csv
 **[csv-merger-1](https://github.com/VIULibrary/csv-merger-) &rarr; [DataCite Bulk DOI Creator](https://github.com/VIULibrary/datacite-bulk-doi-creator) &rarr; CSV-MERGER-2**
 
 
+## Usage
+
 1. Clone this script
 2. Place your auto-prefix.py .csv outfile and your exported dspace metadata file (this will be the file you merge into, and import back into dspace) in the same directory as the csv-merger.py script.
 3. Check your dspace file and see that it aligns with import2dspace.csv.sample or if you have messey field names, messy-import2dspace.csv.sample.
