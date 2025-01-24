@@ -15,7 +15,7 @@ Use in conjunction with the [DataCite Bulk DOI Creator](https://github.com/VIULi
 5. Check the summary!
 
 ```
-python csv-merger.py
+python csv-merger-2.py
 Enter the name of the file to be imported to Dspace (including .csv extension): LimNaturalizationOriginal.csv
 Enter the name of the auto-prefix output file (including .csv extension): LimNatProdOut.csv
 Match found for: http://hdl.handle.net/10613/1955 in field dc.identifier.uri[]
