@@ -4,7 +4,7 @@
 Use in conjunction with the the [csv-merger-1](https://github.com/VIULibrary/csv-merger) and the  [DataCite Bulk DOI Creator](https://github.com/VIULibrary/datacite-bulk-doi-creator) and to map a dspace export .csv to a datacite import .csv, generate DOIs, and finally merge your DOIs in your dspace export/import .csv for importing into dspace
 
 
-**csv-merger-1 &rarr; [DataCite Bulk DOI Creator](https://github.com/VIULibrary/datacite-bulk-doi-creator) &rarr; CSV-MERGER-2**
+**[csv-merger-1](https://github.com/VIULibrary/csv-merger-) &rarr; [DataCite Bulk DOI Creator](https://github.com/VIULibrary/datacite-bulk-doi-creator) &rarr; CSV-MERGER-2**
 
 
 1. Clone this script
